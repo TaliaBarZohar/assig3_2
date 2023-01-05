@@ -1,3 +1,5 @@
+//Talia yarin bar zohar Id: 318257060  
+//Sagi stav Id: 316584622
 package assig3_2;
 
 public class Main {
